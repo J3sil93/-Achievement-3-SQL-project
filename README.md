@@ -1,4 +1,4 @@
-# -Achievement-3-SQL-project
+# Achievement 3 SQL project
 ## ROCKBUSTER SQL
 
 Rockbuster is a movie rental company that used to have stores worldwide.  They are facing competition from streaming services such as Netflix and Amazon Prime, so the Rockbuster Stealth management team plans to use its existing movie licenses to launch an online video rental service to stay competitive.

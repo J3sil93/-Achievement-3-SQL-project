@@ -32,3 +32,5 @@ Rockbuster provided the data in the Project Brief. The data set worked on contai
 
 ### Visualizations
 Tableau was used to create the visuals.  The link to the storyboard: [Rockbuster Stealth Final Presentation](https://public.tableau.com/views/23-09-01Ex3_10Tableau/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+ #### Note: 23-09-01 Ex 3.10.xlsx contains the queries used and the information extracted for the project.
